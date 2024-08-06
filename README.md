@@ -1,7 +1,7 @@
 # python-selenium-browserstack
 Run python tests on browserstack using the SDK.
 
-## Prerequisite
+## Enter Prerequisites
 ```
 python3 should be installed
 ```
